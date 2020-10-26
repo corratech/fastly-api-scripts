@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VSCode
+.vscode/
+
+# Config INI
+config.ini
+
+# file backups
+*.bak
+*.bkp
+*.back
+
+# Directory backups
+backups/
+backups/*
+old/
+old/*

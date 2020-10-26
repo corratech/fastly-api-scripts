@@ -1,0 +1,4 @@
+[fastly]
+api_url = https://api.fastly.com/
+token = wxyz-123abcdefghijklmnopqrstuvwx
+service_id = 1a2b3c4d5e6f7g8h9i0j1a
